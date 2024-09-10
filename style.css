@@ -1,0 +1,33 @@
+#logo{
+    width: 70px;
+    height: 70px;
+}
+
+.cartão{
+
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.titulo{
+
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.card-img-top{
+    height: 250px;
+    max-width: auto;
+}
+
+.valor{
+    color:rgb(248, 8, 8);
+}
+
+.card-body {
+    text-align: center;
+}
